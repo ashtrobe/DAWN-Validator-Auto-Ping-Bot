@@ -1,7 +1,7 @@
 # Dawn Validator BOT
 Dawn Validator BOT
 
-(https://github.com/ashtrobe/DAWN-Validator-Auto-Ping-Bot/blob/main/images/dawn.png?raw=true)
+[DAWN](https://github.com/ashtrobe/DAWN-Validator-Auto-Ping-Bot/blob/main/images/dawn.png?raw=true)
 
 - Download Extension Here : [Dawn Validator](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
 - Use Code : 7hvpd3yt
