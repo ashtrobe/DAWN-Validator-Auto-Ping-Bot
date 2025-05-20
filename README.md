@@ -1,5 +1,4 @@
 # Dawn Validator BOT
-Dawn Validator BOT
 
 ![DAWN](images/dawn.png)
 
