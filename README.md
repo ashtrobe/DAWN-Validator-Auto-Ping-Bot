@@ -7,14 +7,12 @@ Dawn Validator BOT
 ## Features
 
   - Auto Get Account Information
-  - Auto Run With Private Proxy - Choose 2
+  - Auto Run With Private Proxy - Choose 2 # [**GET HIGH QUALITY CHEAP RESIDENTIAL PROXIES FROM HERE**](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
   - Auto Run Without Proxy - Choose 3
   - Auto Send Keep-Alive Every 5 Minutes
   - Multi Accounts With Threads
 
 Note: Dawn Server may be experiencing problems receiving requests, please be patient.
-
-# [**GET HIGH QUALITY CHEAP PROXIES FROM HERE**](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
 
 ## Installation
 
