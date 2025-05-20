@@ -8,7 +8,7 @@
 ## Features
 
   - Auto Get Account Information
-  - Auto Run With Private Proxy - Choose 2 # [**GET HIGH QUALITY CHEAP RESIDENTIAL PROXIES FROM HERE**](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
+  - Auto Run With Private Proxy - Choose 2 [**GET HIGH QUALITY CHEAP RESIDENTIAL PROXIES FROM HERE**](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
   - Auto Run Without Proxy - Choose 3
   - Auto Send Keep-Alive Every 5 Minutes
   - Multi Accounts With Threads
@@ -19,8 +19,8 @@ Note: Dawn Server may be experiencing problems receiving requests, please be pat
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/DAWN.git
-   cd DAWN
+   git clone https://github.com/ashtrobe/DAWN-Validator-Auto-Ping-Bot
+   cd DAWN-Validator-Auto-Ping-Bot
    pip install -r requirements.txt
    ```
 
