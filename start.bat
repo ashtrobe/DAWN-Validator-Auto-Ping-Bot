@@ -1,4 +1,4 @@
 echo.
-echo Starting UNION 
+echo Starting DAWN 
 python bot.py
 pause
