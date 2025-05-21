@@ -3,7 +3,7 @@
 ![DAWN](images/dawn.png)
 
 - Download Extension Here : [Dawn Validator](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
-- Use Code : 7hvpd3yt
+- Use Code : s6ynsiv0
 
 ## Features
 
