@@ -19,7 +19,7 @@ Note: Dawn Server may be experiencing problems receiving requests, please be pat
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/ashtrobe/DAWN-Validator-Auto-Ping-Bot
+   git clone https://github.com/Ansh7473//DAWN-Validator-Auto-Ping-Bot
    cd DAWN-Validator-Auto-Ping-Bot
    pip install -r requirements.txt
    ```
