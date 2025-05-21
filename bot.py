@@ -175,7 +175,7 @@ class Dawn:
    ██║  ██║██╔══██║██║███╗██║██║╚██╗██║
    ██████╔╝██║  ██║╚███╔███╔╝██║ ╚████║
    ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═══╝
-            {Fore.GREEN + Style.BRIGHT}AUTO PING BOT thanks to ashtrobe {Style.RESET_ALL}
+            {Fore.GREEN + Style.BRIGHT}AUTO PING BOT thanks to ashtrobe for script  menu by ansh {Style.RESET_ALL}
             """
         )
 
