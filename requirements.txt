@@ -3,3 +3,4 @@ aiohttp-socks
 fake-useragent
 colorama
 pytz
+pydantic
