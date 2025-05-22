@@ -3,7 +3,7 @@
 ![DAWN](images/dawn.png)
 
 - Download Extension Here : [Dawn Validator](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
-- Use Code : 7hvpd3yt
+- Use Code : s6ynsiv0
 
 ## Features
 
@@ -19,7 +19,7 @@ Note: Dawn Server may be experiencing problems receiving requests, please be pat
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/ashtrobe/DAWN-Validator-Auto-Ping-Bot
+   git clone https://github.com/Ansh7473//DAWN-Validator-Auto-Ping-Bot
    cd DAWN-Validator-Auto-Ping-Bot
    pip install -r requirements.txt
    ```
