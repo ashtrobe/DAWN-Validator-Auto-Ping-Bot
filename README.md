@@ -3,11 +3,12 @@
 ![DAWN](images/dawn.png)
 
 - Download Extension Here : [Dawn Validator](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
-- Use Code : s6ynsiv0
+- Use Code : 7hvpd3yt
 
 ## Features
 
   - Auto Get Account Information
+  - Auto Run With Public Proxy - Choose 1
   - Auto Run With Private Proxy - Choose 2 [**GET HIGH QUALITY CHEAP RESIDENTIAL PROXIES FROM HERE**](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
   - Auto Run Without Proxy - Choose 3
   - Auto Send Keep-Alive Every 5 Minutes
